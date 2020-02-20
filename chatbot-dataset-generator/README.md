@@ -1,6 +1,6 @@
 # 챗봇 데이터 생성
 
-[fakejs](https://github.com/Marak/faker.js)를 이용해서 간단한 챗봇 로그를 제작하는 snippet 입니다.
+[faker.js](https://github.com/Marak/faker.js)를 이용해서 간단한 챗봇 로그를 제작하는 snippet 입니다.
 아래 형태의 데이터를 생성합니다.
 
 ```javascript
